@@ -1,0 +1,204 @@
+section {
+    height: 1000px;
+}
+
+.section1 {
+    background-color: #fae577;
+    vertical-align: middle;
+    text-align: center;
+    /* border: 2px solid red; */
+}
+
+.section1 h1 {
+    /* border: 2px solid red; */
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.section1 h5 {
+    font-size: 15px;
+}
+
+.section1 div {
+    /* border: 2px solid red; */
+    display: inline-block;
+    margin: auto;
+    margin-top: 164px;
+}
+
+.content {
+    /* border: 2px solid blue; */
+    display: inline-block;
+    width: 34%;
+}
+
+.content img {
+    /* border: 2px solid red; */
+    display: inline-block;
+    width: 16%;
+}
+
+.section2 {
+    border: 2px solid white;
+    background-color: #fae577;
+}
+
+.section2 header {
+    border-bottom: 4px solid #ebd27f94;
+    background-color: #fae577;
+    height: 7%;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: sans-serif;
+    /* text-align: justify; */
+}
+
+.section2 header div {
+    /* border: 2px solid pink; */
+    width: 21%;
+    padding: 19px 29px;
+}
+
+.disclaimer div img {
+    /* border: 2px solid red; */
+    width: 4%;
+    margin-left: 93%;
+}
+
+.disclaimer h3 {
+    /* border: 2px solid red; */
+    font-size: 40px;
+    text-align: center;
+    border-bottom: 4px solid black;
+}
+
+.disclaimer p {
+    margin: 11px;
+}
+
+.disclaimer button {
+    margin: 0px 9px;
+    padding: 4px 14px;
+    border-radius: 4px;
+    color: white;
+    background-color: #5a5b5eab;
+    font-size: 13px;
+    cursor: pointer;
+    line-height: 26PX;
+    font-weight: bold;
+}
+
+.disclaimer button:hover {
+    background-color: rgb(123, 122, 122);
+}
+
+.disclaimer footer {
+    margin-left: 43%;
+    margin-top: 5%;
+}
+
+.section3 {
+    border: 3px solid white;
+    background-image: url(login\ bg.jpg);
+}
+
+.section3 header {
+    border: 2px solid #fae577;
+    background-color: #fae577;
+    height: 7%;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.section3 header div {
+    /* border: 2px solid pink; */
+    width: 21%;
+    padding: 19px 29px;
+}
+
+.section3 select {
+    height: 4%;
+    margin-left: 91%;
+    margin-top: 20px;
+    width: 5%;
+    background-color: white;
+    color: green;
+}
+
+.section3 form {
+    /* border: 2px solid rgb(249, 245, 245); */
+    border-radius: 20px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: middle;
+    width: 70%;
+    height: 40%;
+    margin: auto 14%;
+    margin-top: 13%;
+    vertical-align: middle;
+}
+
+.txt {
+    /* border: 2px solid red; */
+    width: 64%;
+    margin: auto;
+    position: relative;
+    top: 30px;
+}
+
+.btn {
+    border-radius: 6px;
+    background-color: #1ebe92;
+    color: white;
+    margin: auto;
+    position: relative;
+    top: 80px;
+    left: 49%;
+    padding: 10px 23px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(77, 188, 77);
+}
+
+form .login {
+    /* border: 2px solid brown; */
+    /* display: inline-block; */
+    width: 75%;
+    height: 60%;
+    margin: auto;
+    text-align: center;
+    margin-top: -40px;
+    font-size: 20px;
+    background-color: #1ebe92;
+    color: white;
+}
+
+.login img {
+    /* border: 2px solid rgb(27, 173, 24); */
+    width: 8%;
+    height: 27%;
+    /* display: inline-block; */
+    filter: invert();
+    position: relative;
+    z-index: 15px;
+    top: 40px;
+}
+
+.login div {
+    /* border: 2px solid red; */
+    /* display: inline-block; */
+    width: 33%;
+    margin: auto;
+    margin-top: 48px;
+    text-align: center;
+    /* line-height: 0px; */
+    position: relative;
+    /* z-index: 30px; */
+    top: 0px;
+}
